@@ -2,5 +2,10 @@ name = "homegrade-site"
 compatibility_date = "2026-05-09"
 compatibility_flags = ["global_fetch_strictly_public"]
 
+routes = [
+  { pattern = "homegrade.kr", custom_domain = true },
+  { pattern = "www.homegrade.kr", custom_domain = true }
+]
+
 [assets]
 directory = "./dist"

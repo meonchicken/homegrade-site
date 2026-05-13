@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="HomeGrade 소개 - 데이터 기반 홈리빙 용품 평가" description="HomeGrade는 쿠팡 리뷰 빅데이터와 안전 인증으로 홈리빙 용품을 등급 비교하는 사이트입니다. 평가 방법론과 편집 원칙을 공개합니다.">
+  <article class="page">
+    <h1>HomeGrade 소개</h1>
+
+    <h2>왜 만들었나요?</h2>
+    <p>홈리빙 시장은 광고와 협찬이 압도적입니다. 텀블러·수세미·세제 같은 일상 소모품을 고를 때 "어떤 게 진짜 좋은가"를 객관적으로 비교할 방법이 부족합니다. HomeGrade는 쿠팡 인증 리뷰·네이버 블로그 후기·디시인사이드 토론을 자체 분석 시스템으로 종합해 <strong>객관적인 등급</strong>을 매깁니다.</p>
+
+    <h2>평가 5축 (각 5점 만점)</h2>
+    <table>
+      <thead><tr><th>항목</th><th>가중치</th><th>측정 방식</th></tr></thead>
+      <tbody>
+        <tr><td>핵심 성능</td><td>30%</td><td>카테고리별 정의 (보온·세척력·흡수력·내열 등)</td></tr>
+        <tr><td>내구성·수명</td><td>20%</td><td>사용 기간 대비 만족도 추이</td></tr>
+        <tr><td>세척 편의</td><td>15%</td><td>식기세척기 호환·분해 용이성·잔여물</td></tr>
+        <tr><td>가성비</td><td>20%</td><td>가격 대비 성능 환산 (1일 비용 등)</td></tr>
+        <tr><td>디자인·만족도</td><td>15%</td><td>사용자 디자인 평가·시각적 완성도</td></tr>
+      </tbody>
+    </table>
+
+    <h2>안전 인증 추가 검증</h2>
+    <ul>
+      <li><strong>식약처</strong> 식품용 기구 등록 여부</li>
+      <li><strong>BPA-Free / 프탈레이트-Free</strong> 인증</li>
+      <li><strong>KS인증 / KC인증</strong></li>
+      <li><strong>한국소비자원</strong> 안전성 조사 결과</li>
+    </ul>
+
+    <h2>편집 원칙</h2>
+    <ul>
+      <li><strong>광고와 콘텐츠 분리</strong>: 협찬 글은 명시적으로 표기합니다.</li>
+      <li><strong>데이터 우선</strong>: 모든 주장에 수치·출처를 표기합니다.</li>
+      <li><strong>약점도 솔직하게</strong>: 단점이 없는 제품은 추천하지 않습니다.</li>
+      <li><strong>업데이트 주기</strong>: 가격은 주 1회, 랭킹은 월 1회 갱신합니다.</li>
+      <li><strong>직접 사용 표현 금지</strong>: 모든 평가는 리뷰 데이터 분석 기반입니다.</li>
+    </ul>
+
+    <h2>운영팀</h2>
+    <p>HomeGrade Editorial Team이 자체 분석 시스템과 함께 콘텐츠를 만들어갑니다. 쿠팡 인증 구매자 리뷰·네이버 블로그·커뮤니티 토론을 자동 수집·분석하여 등급을 산정합니다.</p>
+
+    <h2>시리즈 사이트</h2>
+    <ul>
+      <li>🐾 반려동물: <a href="https://doggrade.com" rel="noopener">doggrade.com</a></li>
+      <li>👶 육아·영유아: <a href="https://babygrade.kr" rel="noopener">babygrade.kr</a></li>
+    </ul>
+
+    <h2>제휴 고지 (광고 고지)</h2>
+    <p>본 사이트는 쿠팡 파트너스 활동의 일환으로 본문 내 링크를 통해 발생한 매출에 따라 일정액의 수수료를 제공받습니다. 단, <strong>수수료와 무관하게 데이터에 기반한 추천만</strong> 작성합니다.</p>
+
+    <h2>문의</h2>
+    <p>제품 추가·오류 제보: <a href="mailto:contact@homegrade.kr">contact@homegrade.kr</a></p>
+  </article>
+</Base>
+
+<style>
+  .page { max-width: 760px; margin: 30px auto; padding: 0 24px; }
+  .page h1 { font-size: 2rem; margin-bottom: 24px; }
+  .page h2 { font-size: 1.3rem; margin: 32px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--border); }
+  .page p { margin-bottom: 14px; }
+  .page ul { margin: 0 0 14px 22px; }
+  .page li { margin: 6px 0; }
+  .page table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: .92rem; }
+  .page th, .page td { padding: 10px; border: 1px solid var(--border); text-align: left; }
+  .page th { background: #fff5e6; }
+</style>

@@ -3,10 +3,11 @@ interface Props {
   title: string;
   description: string;
   ogImage?: string;
+  ogType?: 'website' | 'article';
   schemas?: object[];
 }
 
-const { title, description, ogImage = '/og-default.png', schemas = [] } = Astro.props;
+const { title, description, ogImage = '/og-default.png', ogType = 'website', schemas = [] } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
@@ -24,7 +25,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <meta name="description" content={description} />
 
     <!-- Open Graph -->
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={new URL(ogImage, Astro.site).href} />

@@ -1,3 +1,4 @@
 # HomeGrade redirects
-# 신규 사이트라 마이그레이션 redirect 없음.
-# 향후 슬러그 변경 시 여기에 추가.
+# 호스트 단위(www → 루트, http → https)는 src/worker.ts 에서 처리한다.
+# Cloudflare Workers Static Assets 의 _redirects 는 상대 경로만 허용.
+# 향후 슬러그 변경 시 여기에 상대 경로 redirect 추가.

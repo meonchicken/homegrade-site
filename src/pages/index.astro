@@ -7,9 +7,38 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft))
 
 const categories = ['주방', '욕실', '청소', '소모품'] as const;
 const byCategory = Object.fromEntries(categories.map((c) => [c, posts.filter((p) => p.data.category === c).slice(0, 4)]));
+
+const siteUrl = Astro.site!.href;
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'HomeGrade',
+  alternateName: '홈그레이드',
+  url: siteUrl,
+  inLanguage: 'ko-KR',
+  description: '주방·욕실·청소·생활소모품 등급 비교. 쿠팡 리뷰·맘카페·디시 후기 종합과 안전 인증 검증으로 진짜 좋은 제품만 골라드려요.',
+  publisher: { '@type': 'Organization', name: 'HomeGrade' },
+};
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'HomeGrade',
+  url: siteUrl,
+  logo: new URL('/og-default.png', Astro.site).href,
+  sameAs: [] as string[],
+};
+
+const schemas = [websiteSchema, organizationSchema];
 ---
 
-<Base title="HomeGrade - 주방·욕실·청소·생활소모품 등급 비교 사이트 (2026 리뷰 빅데이터)" description="주방·욕실·청소·생활소모품 등급 비교. 쿠팡 리뷰·맘카페·디시 후기 종합과 안전 인증 검증으로 진짜 좋은 제품만 골라드려요.">
+<Base
+  title="HomeGrade - 주방·욕실·청소·생활소모품 등급 비교 사이트 (2026 리뷰 빅데이터)"
+  description="주방·욕실·청소·생활소모품 등급 비교. 쿠팡 리뷰·맘카페·디시 후기 종합과 안전 인증 검증으로 진짜 좋은 제품만 골라드려요."
+  ogType="website"
+  schemas={schemas}
+>
   <section class="hero-banner">
     <div class="hero-inner">
       <h1>홈리빙 용품, <br />데이터로 등급 비교하세요</h1>

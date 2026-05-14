@@ -84,7 +84,7 @@ const schemas = [articleSchema, faqSchema, breadcrumbSchema, ...productSchemas];
 const { Content } = await render(post);
 ---
 
-<Base title={data.title} description={data.description} ogImage={data.heroImage} schemas={schemas}>
+<Base title={data.title} description={data.description} ogImage={data.heroImage} ogType="article" schemas={schemas}>
 
   <div class="page-grid">
 

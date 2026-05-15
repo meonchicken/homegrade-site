@@ -2,6 +2,7 @@
 import Base from './Base.astro';
 import { render, getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import { proxyImage, absoluteProxyImage } from '../utils/image-proxy';
 
 interface Props {
   post: CollectionEntry<'posts'>;
@@ -10,6 +11,7 @@ interface Props {
 const { post } = Astro.props;
 const data = post.data;
 const url = new URL(Astro.url.pathname, Astro.site).href;
+const siteOrigin = Astro.site?.href ?? 'https://homegrade.kr';
 
 // 읽기 시간 추산
 const wordCount = (post.body ?? '').trim().split(/\s+/).length;
@@ -33,9 +35,15 @@ const articleSchema = {
   description: data.description,
   datePublished: data.publishedAt.toISOString(),
   dateModified: (data.updatedAt || data.publishedAt).toISOString(),
-  image: data.heroImage,
+  image: absoluteProxyImage(data.heroImage, siteOrigin),
   mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-  author: { '@type': 'Organization', name: 'HomeGrade Editorial Team' },
+  author: {
+    '@type': 'Person',
+    '@id': new URL('/about/#person', Astro.site).href,
+    name: '김재형',
+    jobTitle: 'HomeGrade 편집장',
+    url: new URL('/about/', Astro.site).href,
+  },
   publisher: {
     '@type': 'Organization',
     name: 'HomeGrade',
@@ -57,7 +65,7 @@ const productSchemas = data.products.map((p) => ({
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: p.name,
-  image: p.image,
+  image: absoluteProxyImage(p.image, siteOrigin),
   offers: {
     '@type': 'Offer',
     price: p.price,
@@ -84,7 +92,7 @@ const schemas = [articleSchema, faqSchema, breadcrumbSchema, ...productSchemas];
 const { Content } = await render(post);
 ---
 
-<Base title={data.title} description={data.description} ogImage={data.heroImage} ogType="article" schemas={schemas}>
+<Base title={data.title} description={data.description} ogImage={proxyImage(data.heroImage)} ogType="article" schemas={schemas}>
 
   <div class="page-grid">
 
@@ -114,7 +122,7 @@ const { Content } = await render(post);
 
         <div class="post-meta">
           <div class="meta-left">
-            <span class="meta-author">HomeGrade Editorial Team</span>
+            <a href="/about/" class="meta-author" rel="author">김재형 · 편집장</a>
             <span class="meta-sep">|</span>
             <time datetime={data.publishedAt.toISOString()}>
               {data.publishedAt.toLocaleDateString('ko-KR')}
@@ -132,7 +140,7 @@ const { Content } = await render(post);
       </header>
 
       <!-- 피처 이미지 -->
-      <img src={data.heroImage} alt={data.heroImageAlt} class="hero" loading="eager" width="1200" height="630" />
+      <img src={proxyImage(data.heroImage)} alt={data.heroImageAlt} class="hero" loading="eager" width="1200" height="630" />
 
       <!-- 모바일 TOC 토글 -->
       <div class="toc-mobile-wrap">
@@ -163,7 +171,7 @@ const { Content } = await render(post);
             {data.products.map((p) => (
               <a href={p.url} rel="nofollow noopener sponsored" target="_blank" class="product-card">
                 <span class="product-card-tag">쿠팡 파트너스</span>
-                <img src={p.image} alt={`${p.name} - ${p.price.toLocaleString()}원`} loading="lazy" width="300" height="300" />
+                <img src={proxyImage(p.image)} alt={`${p.name} - ${p.price.toLocaleString()}원`} loading="lazy" width="300" height="300" />
                 <div class="product-body">
                   <h3>{p.name}</h3>
                   <p class="price">{p.price.toLocaleString()}원</p>
@@ -210,7 +218,7 @@ const { Content } = await render(post);
           <div class="related-grid">
             {relatedPosts.map((p) => (
               <a href={`/${p.id}`} class="related-card">
-                <img src={p.data.heroImage} alt={p.data.title} loading="lazy" width="400" height="225" />
+                <img src={proxyImage(p.data.heroImage)} alt={p.data.title} loading="lazy" width="400" height="225" />
                 <div class="related-card-body">
                   <span class="related-cat">{p.data.category}</span>
                   <p class="related-card-title">{p.data.title}</p>
@@ -231,7 +239,7 @@ const { Content } = await render(post);
         {topProduct && (
           <a href={topProduct.url} rel="nofollow noopener sponsored" target="_blank" class="sidebar-cta">
             <div class="sidebar-cta-sub">이 글의 1순위 추천</div>
-            <img src={topProduct.image} alt={topProduct.name} class="sidebar-cta-img" loading="lazy" width="240" height="240" />
+            <img src={proxyImage(topProduct.image)} alt={topProduct.name} class="sidebar-cta-img" loading="lazy" width="240" height="240" />
             <div class="sidebar-cta-name">{topProduct.name}</div>
             <div class="sidebar-cta-price">{topProduct.price.toLocaleString()}원</div>
             <span class="sidebar-cta-btn">
@@ -247,7 +255,7 @@ const { Content } = await render(post);
             <div class="sidebar-related-label">관련 글</div>
             {relatedPosts.map((p) => (
               <a href={`/${p.id}`} class="rec-card">
-                <img src={p.data.heroImage} alt={p.data.title} class="rec-thumb" loading="lazy" width="128" height="96" />
+                <img src={proxyImage(p.data.heroImage)} alt={p.data.title} class="rec-thumb" loading="lazy" width="128" height="96" />
                 <div class="rec-body">
                   <span class="rec-cat">{p.data.category}</span>
                   <div class="rec-title">{p.data.title}</div>
@@ -266,7 +274,7 @@ const { Content } = await render(post);
   {topProduct && (
     <div id="cta-toast">
       <div class="toast-inner">
-        <img src={topProduct.image} alt={topProduct.name} class="toast-img" width="44" height="44" />
+        <img src={proxyImage(topProduct.image)} alt={topProduct.name} class="toast-img" width="44" height="44" />
         <div class="toast-text">
           <p class="toast-label">1순위 추천</p>
           <p class="toast-name">{topProduct.name.split(',')[0]}</p>
@@ -375,7 +383,13 @@ const { Content } = await render(post);
     font-size: .88rem;
   }
   .meta-left { display: flex; align-items: center; gap: 8px; color: var(--muted); }
-  .meta-author { font-weight: 500; color: var(--text); }
+  .meta-author {
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--muted);
+  }
+  .meta-author:hover { color: var(--primary-dark); border-bottom-color: var(--primary); }
   .meta-sep { color: var(--border); }
   .meta-right { display: flex; align-items: center; gap: 8px; }
   .meta-cat {

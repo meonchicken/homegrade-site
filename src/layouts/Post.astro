@@ -3,6 +3,9 @@ import Base from './Base.astro';
 import { render, getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import { proxyImage, absoluteProxyImage } from '../utils/image-proxy';
+import { marked } from 'marked';
+
+const inlineMd = (s: string) => marked.parseInline(s ?? '', { async: false }) as string;
 
 interface Props {
   post: CollectionEntry<'posts'>;
@@ -154,7 +157,7 @@ const { Content } = await render(post);
       <!-- 한눈에 요약 -->
       <aside class="tldr">
         <h2>한눈에 요약</h2>
-        <ul>{data.tldr.map((line) => <li>{line}</li>)}</ul>
+        <ul>{data.tldr.map((line) => <li set:html={inlineMd(line)} />)}</ul>
       </aside>
 
       <!-- 본문 -->
@@ -193,7 +196,7 @@ const { Content } = await render(post);
           {data.faq.map((f) => (
             <>
               <dt>Q. {f.q}</dt>
-              <dd>A. {f.a}</dd>
+              <dd>A. <span set:html={inlineMd(f.a)} /></dd>
             </>
           ))}
         </dl>

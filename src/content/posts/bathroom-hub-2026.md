@@ -1,8 +1,8 @@
 ---
 title: 욕실용품 추천 완벽 가이드 — 치약·샴푸·면도기·바디워시 등급표 종합 (2026 허브)
 description: >-
-  욕실용품 추천 디시·더쿠·82cook 후기 종합과 치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸
-  9개 카테고리 등급표 통합 가이드. 한국소비자원·식약처 의약외품·화장품법 인증 기반.
+  욕실용품 추천 디시·더쿠·82cook 후기 종합과 치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸 9개 카테고리 등급표 통합
+  가이드. 한국소비자원·식약처 의약외품·화장품법 인증 기반.
 publishedAt: 2026-05-27T00:00:00.000Z
 updatedAt: 2026-05-27T00:00:00.000Z
 category: 욕실
@@ -33,81 +33,85 @@ heroImage: /images/bathroom-hub-2026-1.png
 heroImageAlt: 욕실용품 추천 완벽 가이드 9개 카테고리 등급 통합 — homegrade Editorial Team 2026
 tldr:
   - >-
-    욕실용품 추천은 단일 SKU 비교가 아닌 **9개 카테고리(치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸)
-    + 수납·정리 3개 보조 카테고리** 통합 운영이 핵심. 디시·82cook 누적 패턴은 카테고리별 1등 라인업 + 욕실 동선
-    + 수납 정리 3축 통합 의사결정이 표준 운영이라고 보고한다.
+    욕실용품 추천은 단일 SKU 비교가 아닌 **9개 카테고리(치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸) +
+    수납·정리 3개 보조 카테고리** 통합 운영이 핵심. 디시·82cook 누적 패턴은 카테고리별 1등 라인업 + 욕실 동선 + 수납 정리
+    3축 통합 의사결정이 표준 운영이라고 보고한다.
   - >-
-    homegrade 욕실 카테고리 9개 스포크 글 누적 발행 완료(2026-05-27 기준). 본 허브 글은 각 스포크 글의 등급별
-    1등 라인업을 한 페이지로 통합 + 수납·정리 보조 라인 3종 추가로 욕실 단일 의사결정 가이드를 제공한다.
+    homegrade 욕실 카테고리 9개 스포크 글 누적 발행 완료(2026-05-27 기준). 본 허브 글은 각 스포크 글의 등급별 1등
+    라인업을 한 페이지로 통합 + 수납·정리 보조 라인 3종 추가로 욕실 단일 의사결정 가이드를 제공한다.
   - >-
-    한국소비자원·식약처 가이드에 따르면 (1) 의약외품 표시(치약·구강세정제), (2) 화장품법 기능성 표시(미백·주름·자외선),
-    (3) 위해우려제품 표시(샴푸·바디워시 일부), (4) 식약처 KC·CGMP 인증이 욕실용품의 4가지 기본 인증 요건이다.
+    한국소비자원·식약처 가이드에 따르면 (1) 의약외품 표시(치약·구강세정제), (2) 화장품법 기능성 표시(미백·주름·자외선), (3)
+    위해우려제품 표시(샴푸·바디워시 일부), (4) 식약처 KC·CGMP 인증이 욕실용품의 4가지 기본 인증 요건이다.
 faq:
-  - q: 욕실용품을 한 번에 다 사야 하나요, 카테고리별로 분리해서 사야 하나요?
+  - q: '욕실용품을 한 번에 다 사야 하나요, 카테고리별로 분리해서 사야 하나요?'
     a: >-
-      자취·1인 가구 시작 시 첫 1～2주는 핵심 9개 카테고리(치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸)
-      가운데 본인이 매일 쓰는 5～6개만 우선 구매하고, 사용 빈도·취향 확인 후 나머지를 1～2개월 내 추가하는 방식이
-      디시 자취·82cook 1인 가구 누적 추천 패턴입니다. 신혼·이사 가구는 (1) 욕실 동선 확인, (2) 수납 가구 먼저 설치,
-      (3) 카테고리별 1등 라인업 일괄 구매 순서가 효율적입니다. 본 허브 글의 각 카테고리 링크에서 본인 가구 형태별
-      등급 1등을 확인해 통합 의사결정이 가능합니다.
+      자취·1인 가구 시작 시 첫 1～2주는 핵심 9개 카테고리(치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·미백치약·비듬샴푸) 가운데
+      본인이 매일 쓰는 5～6개만 우선 구매하고, 사용 빈도·취향 확인 후 나머지를 1～2개월 내 추가하는 방식이 디시 자취·82cook
+      1인 가구 누적 추천 패턴입니다. 신혼·이사 가구는 (1) 욕실 동선 확인, (2) 수납 가구 먼저 설치, (3) 카테고리별 1등
+      라인업 일괄 구매 순서가 효율적입니다. 본 허브 글의 각 카테고리 링크에서 본인 가구 형태별 등급 1등을 확인해 통합 의사결정이
+      가능합니다.
   - q: 신혼·이사 시 욕실용품 쇼핑리스트는 어떻게 구성하나요?
     a: >-
       디시·82cook 신혼·이사 카테고리 누적 패턴은 (1) 필수 9종 — 치약·샴푸·바디워시·면도기·칫솔·클렌징폼·비누·치실·
-      구강세정제, (2) 선택 5종 — 미백치약·비듬샴푸·트리트먼트·바디오일·자외선차단제, (3) 수납 3종 — 욕실 선반·정리함·
-      이동식 수납대 분리 구매가 표준이라고 보고합니다. 본 허브 글의 9개 카테고리 등급 1등 + 수납 3종 라인업으로
-      신혼·이사 욕실 셋업이 1회 의사결정으로 완료됩니다. 가구 인원·욕실 평수·취향(향·민감성)에 따라 라인을 조정하는
-      것이 디시 살림갤·82cook 누적 권장입니다.
+      구강세정제, (2) 선택 5종 — 미백치약·비듬샴푸·트리트먼트·바디오일·자외선차단제, (3) 수납 3종 — 욕실 선반·정리함· 이동식
+      수납대 분리 구매가 표준이라고 보고합니다. 본 허브 글의 9개 카테고리 등급 1등 + 수납 3종 라인업으로 신혼·이사 욕실 셋업이
+      1회 의사결정으로 완료됩니다. 가구 인원·욕실 평수·취향(향·민감성)에 따라 라인을 조정하는 것이 디시 살림갤·82cook 누적
+      권장입니다.
   - q: 1인 가구·자취에 적합한 욕실용품 카테고리는 어떻게 좁히나요?
     a: >-
       1인 가구·자취(전용면적 15～25㎡) 가구의 표준은 (1) 본인 매일 사용 6종 — 치약·샴푸·바디워시·면도기·칫솔·클렌징폼,
       (2) 주 1～2회 사용 3종 — 비누·미백치약·비듬샴푸, (3) 수납 1종 — 무타공 욕실선반 1단입니다. 다이소·쿠팡 가성비
-      라인부터 시작해 사용 빈도·취향 확인 후 6개월 단위로 프리미엄 라인업으로 교체하는 방식이 디시 자취·82cook 1인
-      가구 누적 표준 권장입니다. 본 허브 글의 카테고리별 가성비 등급 1등을 모아 자취 첫 욕실 셋업이 5～10만 원 선에서
-      완료됩니다.
+      라인부터 시작해 사용 빈도·취향 확인 후 6개월 단위로 프리미엄 라인업으로 교체하는 방식이 디시 자취·82cook 1인 가구 누적
+      표준 권장입니다. 본 허브 글의 카테고리별 가성비 등급 1등을 모아 자취 첫 욕실 셋업이 5～10만 원 선에서 완료됩니다.
   - q: 쿠팡 욕실용품과 다이소 욕실용품은 어느 정도 차이가 있나요?
     a: >-
-      쿠팡 욕실용품(가격대 5,000～30,000원)은 식약처 의약외품·화장품법 기능성 표시 + KC 인증 라인이 대부분이며
-      성분·기능성 시험 통과 라인업이 명확합니다. 다이소 욕실용품(가격대 1,000～5,000원)은 기본 위생 라인 + KC
-      안전 표시 통과 라인이지만 기능성 효능(미백·항균·민감성 케어) 인증 라인은 제한적입니다. 디시·82cook 누적 패턴은
-      (1) 매일 쓰는 6종(치약·샴푸·바디워시·면도기·칫솔·클렌징폼)은 쿠팡 1만 원대 이상 정식 라인, (2) 주 1～2회
-      사용·서브 라인은 다이소 가성비 라인 혼용이 비용 대비 합리적이라고 반복적으로 보고됩니다.
+      쿠팡 욕실용품(가격대 5,000～30,000원)은 식약처 의약외품·화장품법 기능성 표시 + KC 인증 라인이 대부분이며 성분·기능성
+      시험 통과 라인업이 명확합니다. 다이소 욕실용품(가격대 1,000～5,000원)은 기본 위생 라인 + KC 안전 표시 통과 라인이지만
+      기능성 효능(미백·항균·민감성 케어) 인증 라인은 제한적입니다. 디시·82cook 누적 패턴은 (1) 매일 쓰는
+      6종(치약·샴푸·바디워시·면도기·칫솔·클렌징폼)은 쿠팡 1만 원대 이상 정식 라인, (2) 주 1～2회 사용·서브 라인은 다이소
+      가성비 라인 혼용이 비용 대비 합리적이라고 반복적으로 보고됩니다.
   - q: 욕실 수납·정리 가구는 무타공·타공 중 어느 쪽이 좋나요?
     a: >-
-      임대·전월세 가구는 무타공(접착식·끼움식) 라인이 필수이며 보증금·원상복구 위험을 회피하는 표준 운영입니다.
-      자가·장기 거주 가구는 타공 라인(앙카·드릴 시공)이 내구·하중 측면에서 우수하지만 시공비·벽면 복구 부담이
-      트레이드오프입니다. 디시 자취·82cook 누적 패턴은 (1) 임대·자취는 무타공 라인 100%, (2) 자가·신혼은 무타공
-      80% + 타공 20%(샤워 거치대·수건걸이) 혼용이 표준이라고 보고합니다. 본 허브 글의 수납·정리 라인 3종은 모두
-      무타공 라인으로 임대 가구 호환 라인업입니다.
+      임대·전월세 가구는 무타공(접착식·끼움식) 라인이 필수이며 보증금·원상복구 위험을 회피하는 표준 운영입니다. 자가·장기 거주 가구는
+      타공 라인(앙카·드릴 시공)이 내구·하중 측면에서 우수하지만 시공비·벽면 복구 부담이 트레이드오프입니다. 디시 자취·82cook 누적
+      패턴은 (1) 임대·자취는 무타공 라인 100%, (2) 자가·신혼은 무타공 80% + 타공 20%(샤워 거치대·수건걸이) 혼용이
+      표준이라고 보고합니다. 본 허브 글의 수납·정리 라인 3종은 모두 무타공 라인으로 임대 가구 호환 라인업입니다.
   - q: 욕실용품 인증·표시는 어떻게 확인하나요?
     a: >-
-      식약처·KC 가이드는 욕실용품 카테고리별로 다음 표시 의무를 명시합니다. (1) 치약·구강세정제 — 의약외품 표시
-      필수, (2) 미백·주름·자외선차단 화장품 — 화장품법 기능성 표시 + 책임판매업자 표기, (3) 샴푸·바디워시 — 화장품법
-      또는 위해우려제품 표시 + 전성분 표기, (4) 면도기·칫솔 — KC 안전 표시 또는 식약처 의료기기 분류 표시. 정상 유통
-      라인은 쿠팡·다이소·올리브영 등에서 위 표시가 모두 부착되어 있으며, 표시 누락 라인은 정식 유통 외 경로(병행수입·
-      해외직구·미인증) 가능성이 있어 디시·82cook 누적 가이드는 표시 확인 후 구매를 표준 권장합니다.
+      식약처·KC 가이드는 욕실용품 카테고리별로 다음 표시 의무를 명시합니다. (1) 치약·구강세정제 — 의약외품 표시 필수, (2)
+      미백·주름·자외선차단 화장품 — 화장품법 기능성 표시 + 책임판매업자 표기, (3) 샴푸·바디워시 — 화장품법 또는 위해우려제품 표시
+      + 전성분 표기, (4) 면도기·칫솔 — KC 안전 표시 또는 식약처 의료기기 분류 표시. 정상 유통 라인은 쿠팡·다이소·올리브영
+      등에서 위 표시가 모두 부착되어 있으며, 표시 누락 라인은 정식 유통 외 경로(병행수입· 해외직구·미인증) 가능성이 있어
+      디시·82cook 누적 가이드는 표시 확인 후 구매를 표준 권장합니다.
 products:
   - name: CUBBYCASE 틈새 다층 수납선반 이동식 다용도 정리대 주방 욕실 화장실 슬림 선반
     price: 17800
-    image: https://ads-partners.coupang.com/image1/V-ibOCDC_S1wLR9WV84m0mRxYPEMhYhkS_4eOGsY-hda5cFN37ewm4P3XY5-_Ivg_hVui2HuZdNBlduFkJAHgLRU5J__xA8yvOKc3RbVD_L2c3U2qatIo9tXwoIUM-M6J_8RR7T9w1Cawcx6sfiqdHKNCDxbzgcolhu9Sqyle6AJ6VmXT_nxxIsdpVYJF4U5IkZSmxKlQmv0lxGnnhQciXAzM150L0N5JaWK21kPW07DsmzwpiW4afGjbS79AGelmmIM9Ki_PaEzstCSI5eYFHT7fmj064k2JdU4wh5MBAgrGWKtExUjNfoY
-    url: https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9440775109&itemId=28079208177&vendorItemId=93135872061&traceid=V0-153-88e2c468dfab4d63&clickBeacon=a91c1640-5997-11f1-be21-2c061509e7f3%7E3&requestid=20260527154533619223285402&token=31850C%7CMIXED
+    image: >-
+      https://ads-partners.coupang.com/image1/V-ibOCDC_S1wLR9WV84m0mRxYPEMhYhkS_4eOGsY-hda5cFN37ewm4P3XY5-_Ivg_hVui2HuZdNBlduFkJAHgLRU5J__xA8yvOKc3RbVD_L2c3U2qatIo9tXwoIUM-M6J_8RR7T9w1Cawcx6sfiqdHKNCDxbzgcolhu9Sqyle6AJ6VmXT_nxxIsdpVYJF4U5IkZSmxKlQmv0lxGnnhQciXAzM150L0N5JaWK21kPW07DsmzwpiW4afGjbS79AGelmmIM9Ki_PaEzstCSI5eYFHT7fmj064k2JdU4wh5MBAgrGWKtExUjNfoY
+    url: >-
+      https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9440775109&itemId=28079208177&vendorItemId=93135872061&traceid=V0-153-88e2c468dfab4d63&clickBeacon=a91c1640-5997-11f1-be21-2c061509e7f3%7E3&requestid=20260527154533619223285402&token=31850C%7CMIXED
     features:
       - 틈새 다층 슬림 선반 (욕실·주방·화장실 통합 운영)
       - 이동식 캐스터 + 무타공 (임대 가구 호환)
       - 다용도 수납 — 욕실용품 9개 카테고리 통합 정리
   - name: 켄바르 초강력 무타공 일자형 욕실선반 2단
     price: 5900
-    image: https://ads-partners.coupang.com/image1/SHb8a32pOxSRBjrxSCX9iAUB8HeBprxWTGxH2iiX2KefAI4BesF5ZxEVZDtR15Mc5sAZwwpch5uCxtXGCw7BtUdKETewjrBdD0ObmyAipvQuXwDp-83RjWM9mwD2gSp8YseVk87OVplrnLJNRh0u2HtsOk-pAuWX5yQhsDKLcfD_jr8fdJJI3Tp0rg16Raw3dW0b56CabY6bBNk426xuQy93EN1sYBPIEgH3mtMQMTyBmT2OX1H-ILiJ3RZtI8dufnBJ16oIQeKKZGqKdlqxQK8oPj-yW6543rAOzzBIIk9UvCqzHljFrDP_I8-C6kXjEB1avw==
-    url: https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9479103720&itemId=28220929940&vendorItemId=95378396303&traceid=V0-153-24479f86f3d5a66f&requestid=20260527154533619223285402&token=31850C%7CMIXED
+    image: >-
+      https://ads-partners.coupang.com/image1/SHb8a32pOxSRBjrxSCX9iAUB8HeBprxWTGxH2iiX2KefAI4BesF5ZxEVZDtR15Mc5sAZwwpch5uCxtXGCw7BtUdKETewjrBdD0ObmyAipvQuXwDp-83RjWM9mwD2gSp8YseVk87OVplrnLJNRh0u2HtsOk-pAuWX5yQhsDKLcfD_jr8fdJJI3Tp0rg16Raw3dW0b56CabY6bBNk426xuQy93EN1sYBPIEgH3mtMQMTyBmT2OX1H-ILiJ3RZtI8dufnBJ16oIQeKKZGqKdlqxQK8oPj-yW6543rAOzzBIIk9UvCqzHljFrDP_I8-C6kXjEB1avw==
+    url: >-
+      https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9479103720&itemId=28220929940&vendorItemId=95378396303&traceid=V0-153-24479f86f3d5a66f&requestid=20260527154533619223285402&token=31850C%7CMIXED
     features:
       - 무타공 접착식 일자형 욕실선반 2단 (임대·전월세 가구 적합)
-      - 5,900원 가성비 입문 라인 + 욕실용품 단순 정리
+      - '5,900원 가성비 입문 라인 + 욕실용품 단순 정리'
       - 보증금·원상복구 위험 회피 + 1인 가구·자취 표준
   - name: 수납킹 다용도 욕실 수납 정리함
     price: 4800
-    image: https://ads-partners.coupang.com/image1/fZPW5nRmrOLMWcaqfd2CqmoVRxeDs6_AWCCMBZeAzZ2rxTZI05z68-LMUKokyXW0EzX2FumI37emFDxaK0rQFyU2KGAMxrL9SkdrF0qak_RvSqvh3dL5GlQ9UM08uAPk2zVVkVuKOMFwwoQ4Uww-BdgAo5YDGx5F-OBSbBkybUeUjy8aZoOj1yPwe_TuJTxLqHC3vBVUlhvFcLHsQFrka0-uLWyc6TRGMX-i6fbs_eFc0e-7RMUHS8AR7N8itsRkM4viCtMcgYJ66mSRP2IFZZLeLMSZwVlYguyh6xQkjsFfDtJ4mL6bjXnrFbZexO6dPoTF_gY=
-    url: https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9521824829&itemId=28386057813&vendorItemId=95458268577&traceid=V0-153-6e0a7d956638dae4&requestid=20260527154533619223285402&token=31850C%7CMIXED
+    image: >-
+      https://ads-partners.coupang.com/image1/fZPW5nRmrOLMWcaqfd2CqmoVRxeDs6_AWCCMBZeAzZ2rxTZI05z68-LMUKokyXW0EzX2FumI37emFDxaK0rQFyU2KGAMxrL9SkdrF0qak_RvSqvh3dL5GlQ9UM08uAPk2zVVkVuKOMFwwoQ4Uww-BdgAo5YDGx5F-OBSbBkybUeUjy8aZoOj1yPwe_TuJTxLqHC3vBVUlhvFcLHsQFrka0-uLWyc6TRGMX-i6fbs_eFc0e-7RMUHS8AR7N8itsRkM4viCtMcgYJ66mSRP2IFZZLeLMSZwVlYguyh6xQkjsFfDtJ4mL6bjXnrFbZexO6dPoTF_gY=
+    url: >-
+      https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9521824829&itemId=28386057813&vendorItemId=95458268577&traceid=V0-153-6e0a7d956638dae4&requestid=20260527154533619223285402&token=31850C%7CMIXED
     features:
-      - 다용도 욕실 수납 정리함 + 4,800원 가성비 1만 원 미만 라인
+      - '다용도 욕실 수납 정리함 + 4,800원 가성비 1만 원 미만 라인'
       - 욕실용품 카테고리 분류 운영 (구강·세안·면도·바디 분리 적합)
       - 1인 가구·자취·서브 정리함 다용도 활용
 sources:
@@ -187,7 +191,14 @@ homegrade Editorial Team은 욕실 9개 카테고리 누적 발행 글에서 쿠
 
 틈새 다층 슬림 선반 + 이동식 캐스터 + 무타공 + 욕실·주방·화장실 통합 운영 라인으로 욕실 카테고리 9종을 분류·정리하기에 적합한 다용도 수납대다. 임대 가구 호환 + 가구 인원·욕실 동선에 따라 위치 조정이 가능해 신혼·이사·자취 첫 욕실 셋업 + 욕실 동선 최적화에 권장된다.
 
-{{COUPANG_LINK_1}}
+<div class="cpg-block">
+  <span class="cpg-tag">쿠팡 파트너스 · 수수료 제공</span>
+  <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9440775109&itemId=28079208177&vendorItemId=93135872061&traceid=V0-153-88e2c468dfab4d63&clickBeacon=a91c1640-5997-11f1-be21-2c061509e7f3%7E3&requestid=20260527154533619223285402&token=31850C%7CMIXED" rel="nofollow noopener sponsored" target="_blank" class="cpg-cta">
+    <span class="cpg-cta-label">🛒 쿠팡 최저가 보기</span>
+    <span class="cpg-cta-name">CUBBYCASE 틈새 다층 수납선반 이동식 다용도 정리대 주방 욕실 화장실 슬림 선반</span>
+    <span class="cpg-cta-price">17,800원</span>
+  </a>
+</div>
 
 운영 적합도는 (1) 신혼·이사·자취 첫 욕실 셋업 + 9개 카테고리 통합 정리를 원하는 사용자, (2) 임대 가구 + 무타공 + 보증금 위험 회피가 필수인 사용자, (3) 욕실 동선 자유도 + 이동식 운영이 핵심인 사용자에 권장된다. 단순 무타공 선반 2단 + 가성비 5,900원이 핵심이면 2번 켄바르 라인, 1만 원 미만 + 정리함 단품이 핵심이면 3번 수납킹 정리함이 합리적이다.
 
@@ -195,7 +206,14 @@ homegrade Editorial Team은 욕실 9개 카테고리 누적 발행 글에서 쿠
 
 무타공 접착식 일자형 욕실선반 2단 + 5,900원 가성비 입문 라인 + 임대·전월세 가구 적합 라인이다. 디시 자취·82cook 1인 가구 누적 패턴에서 "원룸 욕실 첫 선반은 무타공 5,000원대"가 반복 인용되며, 보증금·원상복구 위험 회피 + 단순 욕실용품 정리(샴푸·바디워시 2～3종 거치)에 적합하다.
 
-{{COUPANG_LINK_2}}
+<div class="cpg-block">
+  <span class="cpg-tag">쿠팡 파트너스 · 수수료 제공</span>
+  <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9479103720&itemId=28220929940&vendorItemId=95378396303&traceid=V0-153-24479f86f3d5a66f&requestid=20260527154533619223285402&token=31850C%7CMIXED" rel="nofollow noopener sponsored" target="_blank" class="cpg-cta">
+    <span class="cpg-cta-label">🛒 쿠팡 최저가 보기</span>
+    <span class="cpg-cta-name">켄바르 초강력 무타공 일자형 욕실선반 2단</span>
+    <span class="cpg-cta-price">5,900원</span>
+  </a>
+</div>
 
 이동식 캐스터 + 다층 통합 정리가 핵심이면 1번 CUBBYCASE 라인, 정리함 단품 + 카테고리 분류 운영이 핵심이면 3번 수납킹 정리함이 우선이다. 본 라인은 그 사이의 가성비 입문 라인 + 1인 가구·자취 첫 욕실 셋업으로 위치한다.
 
@@ -203,7 +221,14 @@ homegrade Editorial Team은 욕실 9개 카테고리 누적 발행 글에서 쿠
 
 다용도 욕실 수납 정리함 + 4,800원 1만 원 미만 가성비 + 욕실용품 카테고리 분류 운영(구강·세안·면도·바디 분리)에 적합한 단품 정리함 라인이다. 1인 가구·자취·서브 정리함 다용도 활용이 가능하며, 욕실 선반 위 또는 욕실 수납장 내부 분류 운영에 디시·82cook 누적 권장된다.
 
-{{COUPANG_LINK_3}}
+<div class="cpg-block">
+  <span class="cpg-tag">쿠팡 파트너스 · 수수료 제공</span>
+  <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2360800&pageKey=9521824829&itemId=28386057813&vendorItemId=95458268577&traceid=V0-153-6e0a7d956638dae4&requestid=20260527154533619223285402&token=31850C%7CMIXED" rel="nofollow noopener sponsored" target="_blank" class="cpg-cta">
+    <span class="cpg-cta-label">🛒 쿠팡 최저가 보기</span>
+    <span class="cpg-cta-name">수납킹 다용도 욕실 수납 정리함</span>
+    <span class="cpg-cta-price">4,800원</span>
+  </a>
+</div>
 
 이동식 다층 선반 + 욕실·주방 통합이 핵심이면 1번 CUBBYCASE, 무타공 일자형 선반 2단 + 가성비가 핵심이면 2번 켄바르가 우선이다. 본 정리함은 1·2번 선반 라인의 보조 분류함으로 동시 운영이 표준이다.
 

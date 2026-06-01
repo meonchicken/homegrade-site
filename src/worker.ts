@@ -125,6 +125,20 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
 
+    // 구 한글 카테고리 슬러그 → 영문 (301 영구) — src/utils/categories.ts 와 동기화
+    const CATEGORY_SLUG: Record<string, string> = {
+      '주방': 'kitchen', '욕실': 'bathroom', '청소': 'cleaning',
+      '소모품': 'consumables', '가전': 'appliance', '기타': 'etc',
+    };
+    const catMatch = url.pathname.match(/^\/category\/([^/]+)\/?$/);
+    if (catMatch) {
+      const seg = decodeURIComponent(catMatch[1]);
+      if (CATEGORY_SLUG[seg]) {
+        url.pathname = `/category/${CATEGORY_SLUG[seg]}/`;
+        return Response.redirect(url.toString(), 301);
+      }
+    }
+
     if (url.pathname === '/robots.txt') {
       return new Response(ROBOTS_TXT, {
         status: 200,

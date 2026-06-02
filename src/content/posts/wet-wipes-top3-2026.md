@@ -1,5 +1,5 @@
 ---
-title: 물티슈 추천 디시·더쿠 후기 종합 — 평량·CIT/MIT·EWG·캡형 4축 등급표 (2026)
+title: 물티슈 추천 디시 — 평량·CIT/MIT·EWG 등급 비교
 description: >-
   물티슈 추천 디시·더쿠·82cook·클리앙 후기 종합과 평량(gsm) · 보존제(CIT·MIT 무첨가) · EWG 등급
   · 캡형/리필 4축 등급 비교. 식약처 위생용품 + 환경부 안전확인대상 + EWG Skin Deep 기반. 외출·차량

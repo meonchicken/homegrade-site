@@ -133,7 +133,7 @@ sources:
 | 안전·점착 | 환기·혼합 금지/점착력 | 사용 안전 |
 
 <figure class="infographic">
-  <img src="/images/mold-remover-2026-1.png" alt="곰팡이제거제 추천 분사형 붓겔형 대용량 세트 제형 차아염소산 락스 성분 용도 등급 비교 인포그래픽" loading="lazy" width="800" height="450" />
+  <img src="/images/mold-remover-2026-2.png" alt="곰팡이제거제 차아염소산 락스 성분 분사 보틀 작용 클로즈업 인포그래픽" loading="lazy" width="800" height="450" />
   <div class="labels-3col">
     <span><b>분사형 락스 표준</b><br/>유한락스 멀티액션</span>
     <span><b>붓겔형 줄눈 점착</b><br/>청정세상 붓포함</span>

@@ -133,7 +133,7 @@ sources:
 | 향·안전 | 향 지속/혼합 금지 | 사용 안전 |
 
 <figure class="infographic">
-  <img src="/images/toilet-cleaner-2026-1.png" alt="변기세정제 추천 디시 자동 투입형 액상 직접 세정 고체 비축형 방식 물때 요석 향 용도 등급 비교 인포그래픽" loading="lazy" width="800" height="450" />
+  <img src="/images/toilet-cleaner-2026-2.png" alt="변기세정제 자동 세정 작용 변기 물때 요석 관리 클로즈업 인포그래픽" loading="lazy" width="800" height="450" />
   <div class="labels-3col">
     <span><b>자동 투입 가성비</b><br/>영퍼센트 대용량</span>
     <span><b>액상 직접 세정</b><br/>청그린 라벤더향</span>

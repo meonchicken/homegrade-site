@@ -130,7 +130,7 @@ sources:
 | 안전·바닥재 | 내열 타일/원목·마루 주의 | 표면 재질 |
 
 <figure class="infographic">
-  <img src="/images/steam-cleaner-2026-1.png" alt="스팀청소기 추천 디시 스탠드 살균 물걸레 겸용 핸디 미니 형태 고온 살균력 용도 등급 비교 인포그래픽" loading="lazy" width="800" height="450" />
+  <img src="/images/steam-cleaner-2026-2.png" alt="스팀청소기 고온 스팀 분사 노즐 살균 작용 클로즈업 인포그래픽" loading="lazy" width="800" height="450" />
   <div class="labels-3col">
     <span><b>스탠드 살균 표준</b><br/>한경희 고급형</span>
     <span><b>물걸레 겸용 프리미엄</b><br/>비쎌 슬림 FULL</span>
